@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 import csv
 
 def convert_to_standard_list(input_file, output_file):
