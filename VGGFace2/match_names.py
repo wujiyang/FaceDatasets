@@ -40,6 +40,7 @@ def match_names(name1, name2):
         return True
     name_list1 = split_name(name1)
     name_list2 = split_name(name2)
+
     if (len(name_list1) == 1 and len(name_list2) > 1) or (len(name_list2) == 1 and len(name_list1) > 1):
         return False
     if len(name_list1) == 1 and len(name_list2) == 1:
@@ -54,4 +55,4 @@ def match_names(name1, name2):
         return False
 
 if __name__ == '__main__':
-    print(match_names('Fei-Fei Li', 'Li F.'))
+    print(match_names('Michele_Delaunay', 'DJ_AM'))
