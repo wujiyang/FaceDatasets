@@ -9,7 +9,6 @@ n000008, "AB_de_Villiers", 273, 1
 n000009, "AYAMI", 136, 0
 n000009, "Ayami Kojima", 136, 0
 n000010, "Aamani", 156, 1
-n000010, "Aamani", 156, 1
 n000011, "Aamna_Sharif", 380, 1
 n000012, "Aaron_Ashmore", 382, 1
 n000013, "Aaron_Hernandez", 314, 1
@@ -124,7 +123,6 @@ n000121, "Agustin_Creevy", 349, 1
 n000122, "Agustin_Orion", 365, 1
 n000123, "Agustin_Pichot", 316, 1
 n000124, "Ahlam", 310, 1
-n000124, "Ahlam Ali Al Shamsi", 310, 1
 n000125, "Ahmad_Haidar", 186, 1
 n000126, "Ahmad_Zahid_Hamidi", 429, 1
 n000127, "Ahmed_Elmohamady", 271, 1
@@ -1291,9 +1289,8 @@ n001291, "Barbara_Mori", 502, 0
 n001292, "Barbara_Palacios", 355, 1
 n001293, "Borje_Salming", 305, 0
 n001294, "Bulent_Arinc", 429, 1
-n001295, "C.C._DeVille", 318, 1
-n001296, "C.C.Catch", 303, 0
-n001296, "C C Catch", 303, 0
+n001295, "Bruce_Anthony_Johannesson", 318, 1
+n001296, "Caroline_Catherine_Muller", 303, 0
 n001297, "CJ_Gibson", 221, 1
 n001298, "CM_Punk", 390, 1
 n001299, "Caca_Bueno", 237, 0
@@ -1426,7 +1423,6 @@ n001425, "Caroline_Trentini", 460, 1
 n001426, "Caroline_Wensink", 224, 1
 n001427, "Caroline_af_Ugglas", 296, 1
 n001428, "Caroline,_Princess_of_Hanover", 437, 1
-n001428, "Carolin may refer toGiven nameSurnam",_Princess_of_Hanover", 437, 1
 n001429, "Carolyn_McCall", 261, 1
 n001430, "Carolyn_Murphy", 455, 1
 n001431, "Carrie_Bickmore", 425, 1
@@ -3674,7 +3670,7 @@ n003664, "J._D._Chakravarthy", 261, 1
 n003666, "J._Holiday", 205, 1
 n003667, "J._J._Redick", 406, 1
 n003668, "J._J._Watt", 335, 1
-n003669, "J._R._Smith", 360, 1
+n003669, "Earl_Joseph_"J. R." Smith III", 360, 1
 n003670, "J.R._Martinez", 353, 1
 n003671, "JC_Chasez", 268, 1
 n003672, "Ja_Rule", 455, 1
@@ -5506,7 +5502,7 @@ n005497, "Mane_de_la_Parra", 428, 1
 n005498, "Mapou_Yanga-Mbiwa", 267, 1
 n005499, "Mara_Maravilha", 390, 1
 n005500, "Marbelle", 218, 1
-n005500, "1996 – present MarriedRoyne Chávez", 218, 1
+n005500, "1996 – present MarriedRoyne Chávez", 218, 1
 n005501, "Marc_Bartra", 477, 1
 n005502, "Marc_Bergevin", 357, 1
 n005503, "Marc_Clotet", 360, 1
@@ -7205,7 +7201,7 @@ n007196, "Rambha", 432, 1
 n007196, "Rambha may refer t", 432, 1
 n007197, "Rambo_Amadeus", 256, 1
 n007198, "Ramdev", 401, 1
-n007198, "Baba Ramdev  pronunciation", 401, 1
+n007198, "Baba Ramdev  pronunciation", 401, 1
 n007199, "Ramesh_Sippy", 467, 1
 n007200, "Ramires", 279, 1
 n007200, "Ramires Santos do Nascimento", 279, 1
@@ -8751,7 +8747,6 @@ n008751, "Umberto_Bossi", 475, 1
 n008752, "Umesh_Yadav", 410, 1
 n008753, "Unai_Emery", 465, 1
 n008754, "Undertaker", 308, 1
-n008754, "A funeral director also known as an undertaker", 308, 1
 n008755, "Upasana_Singh", 308, 1
 n008756, "Upeksha_Swarnamali", 313, 1
 n008757, "Urban_Meyer", 462, 1
